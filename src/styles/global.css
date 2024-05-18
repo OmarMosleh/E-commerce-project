@@ -1,0 +1,19 @@
+.active{
+    text-decoration: underline;
+}
+
+/* styles for error page */
+/* note you could do it in modules like componets or globally like here */
+
+.notFound{
+    margin-top: 25%;
+    text-align: center;
+}
+
+.notFound h1{
+    font-size: 130px;
+}
+
+.notFound p {
+    font-size: 50px;
+}
